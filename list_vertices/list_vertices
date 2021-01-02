@@ -1,0 +1,7 @@
+def list_vertices(g):
+    # Your code here
+    vertices = []
+    for i in g:
+        vertices.append(i)
+
+    return vertices
